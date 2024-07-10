@@ -8,7 +8,7 @@
 
 .banner-container{
     background-image: url(assets/Hero-bg.png);
-    height:510px;
+    height: 510px;
     text-align: center;
     margin-top: 40px;
     border:1px solid red;
@@ -19,7 +19,7 @@
 .banner-data{
     width: 600px;
     padding: 5px 5px;
-    margin-left: 30%;
+    margin-left: 33%;
     margin-top: 1%;
     border: 1px solid red;
 }
@@ -50,11 +50,11 @@
 
 #bg-section{
     background-color: #FAFAFB;
-    height: 1000px;
+    height: 900px;
     width: 1000px;
     border: 1px solid red;
     text-align: center;
-    margin: 0 280px 0 280px;
+    margin: 0 255px 0 255px;
 }
 /* 1st box */
 .container1{
@@ -194,81 +194,49 @@
     height: 240px;
     width: 400px;
     margin-left: 20px;
-
 }
 
-.about-image1{
-    /* border: 1px solid red;
-    height: 240px;
-    width: 500px;
-    margin-left: 20px; */
-
-}
-
-/* Box 4 */
-
-
-
-/* .webdevelopment-description{
-    background-color: #FAFAFB;
-    border: 2px solid yellow;
-    width: 70%;
-    margin-left: 15%;
-}
-
-.about-webdevelopment{
-
-}
-
-.future-webdevelopment{
-
-}
-
-.webdevelopment-description-title{
-    font-size: 30px;
-    text-align: center;
-    color: #0D1321;
+#current-container{
     border: 1px solid red;
-    padding: 5px;
-    margin-left: 28%;
-    width: 40%;
-    gap: 5px;
+    height: 900px;
+    margin: 0 255px 0 255px;
+    width: 1000px;
 }
-.webdevelopment-description-details{
+.container5{
+    height: 120px;
+    width: 900px;
+    margin: 0 190px 0 190px;
+    /* border: 1px solid red; */
+}
+
+.dev-title5{
+    /* border: 1px solid yellow; */
+    height: 15px;
+    width: 300px;
+    margin-left: 350px;
     text-align: center;
-    color: #545863;
-    font-size: 15px;
-    border: 1px solid red;
-    padding: 8px;
-    height: 29px;
+    font-size: 26px;
+}
+
+.dev-description5{
+    border: 1px solid yellowgreen;
     width: 800px;
-    margin-left: 14%;
-}
-
-.box-container1{
-    display: flex;
-    border: 1px solid red;
-    padding: 10px;
-    background-color: ;
-
-}
-
-.container-title{
-    border: 1px solid red;
-    width: 75%;
-    height: 15%;
-    padding: ;
-    
-}
-
-.container-title-description{
-    border: 1px solid red;
-    width: 37%;
+    height: 50px;
     text-align: center;
+    margin-left: 90px;
+    font-size: 15px;
 }
 
-.description-image1{
-    height: 200px;
-    width: 200px;
+.box-design{
+    border:1px solid red;
+    height: 500px;
+}
+.language1{
+    border: 1px solid red;
+    display: flex;
+}
 
-} */
+.language2{
+    border: 1px solid red;
+
+}
