@@ -1,0 +1,274 @@
+
+
+.azeret-mono-normal {
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.banner-container{
+    background-image: url(assets/Hero-bg.png);
+    height:510px;
+    text-align: center;
+    margin-top: 40px;
+    border:1px solid red;
+    
+
+}
+
+.banner-data{
+    width: 600px;
+    padding: 5px 5px;
+    margin-left: 30%;
+    margin-top: 1%;
+    border: 1px solid red;
+}
+
+.banner-title h3{
+    font-weight: bolder;
+    font-size: 30px;
+    font-weight: bolder;
+    color: #0D1321;
+}
+
+.banner-description p{
+    font-size: 11px;
+    color: #565A64;
+}
+
+.btn{
+    background-color: #0D1321;
+    font-weight: bold;
+    font-size: 18px;
+    color: #FFFFFF;
+    height: 52px;
+    width: 163px;
+    border-radius: 7px;
+}
+
+/* part 2 */
+
+#bg-section{
+    background-color: #FAFAFB;
+    height: 1000px;
+    width: 1000px;
+    border: 1px solid red;
+    text-align: center;
+    margin: 0 280px 0 280px;
+}
+/* 1st box */
+.container1{
+    /* border: 10px solid yellow; */
+    height: 120px;
+    width: 900px;
+    margin: 0 70px 0 70px;
+}
+.dev-title1{
+    font-size: 27px;
+    /* border: 1px solid red; */
+    font-weight: bold;
+    margin-left: px;
+}
+
+.dev-description1{
+    font-size: 15px;
+    /* border: 1px solid red; */
+    color: #545863;
+    height: 70px;
+}
+
+/* box 2 */
+.container2{
+    border: 1px solid red;
+    margin: 0 20px 0 20px;
+    display: flex;
+    background-color: #FCFCFD;
+
+}
+
+.dev-title2{
+    border: 1px solid yellow;
+    height: 55px;
+    width: 350px;
+    margin-right: 25px;
+    text-align: left;
+    font-size: 25px;
+}
+
+.dev-description2{
+    border: 1px solid yellowgreen;
+    width: 450px;
+    text-align: left;
+}
+
+.btn2{
+    margin-right: 500px;
+    height: 40px;
+    width: 150px;
+    font-weight: bold;
+}
+
+.about-image1{
+    border: 1px solid red;
+    height: 240px;
+    width: 400px;
+    margin-left: 20px;
+
+}
+
+/* box 3 */
+.container3{
+    border: 1px solid red;
+    margin: 0 20px 0 20px;
+    display: flex;
+    background-color: #FCFCFD;
+
+}
+
+.about-image2{
+    border: 1px solid red;
+    height: 240px;
+    width: 400px;
+    /* margin-left: 20px; */
+}
+
+.dev-title3{
+    border: 1px solid yellow;
+    
+    height: 55px;
+    width: 510px;
+    margin-left: 50px;
+    text-align: left;
+    font-size: 25px;
+}
+
+.dev-description3{
+    border: 1px solid yellowgreen;
+    width: 450px;
+    text-align: left;
+    margin-left: 50px;
+}
+
+.btn3{
+    margin-right: 500px;
+    height: 40px;
+    width: 150px;
+    font-weight: bold;
+    margin-left: 50px;
+}
+
+/* Box 4 */
+
+.container4{
+    border: 1px solid red;
+    margin: 0 20px 0 20px;
+    display: flex;
+    background-color: #FCFCFD;
+
+}
+
+.dev-title4{
+    border: 1px solid yellow;
+    height: 55px;
+    width: 350px;
+    margin-right: 25px;
+    text-align: left;
+    font-size: 25px;
+}
+
+.dev-description4{
+    border: 1px solid yellowgreen;
+    width: 450px;
+    text-align: left;
+}
+
+.btn4{
+    margin-right: 500px;
+    height: 40px;
+    width: 150px;
+    font-weight: bold;
+}
+
+.about-image3{
+    border: 1px solid red;
+    height: 240px;
+    width: 400px;
+    margin-left: 20px;
+
+}
+
+.about-image1{
+    /* border: 1px solid red;
+    height: 240px;
+    width: 500px;
+    margin-left: 20px; */
+
+}
+
+/* Box 4 */
+
+
+
+/* .webdevelopment-description{
+    background-color: #FAFAFB;
+    border: 2px solid yellow;
+    width: 70%;
+    margin-left: 15%;
+}
+
+.about-webdevelopment{
+
+}
+
+.future-webdevelopment{
+
+}
+
+.webdevelopment-description-title{
+    font-size: 30px;
+    text-align: center;
+    color: #0D1321;
+    border: 1px solid red;
+    padding: 5px;
+    margin-left: 28%;
+    width: 40%;
+    gap: 5px;
+}
+.webdevelopment-description-details{
+    text-align: center;
+    color: #545863;
+    font-size: 15px;
+    border: 1px solid red;
+    padding: 8px;
+    height: 29px;
+    width: 800px;
+    margin-left: 14%;
+}
+
+.box-container1{
+    display: flex;
+    border: 1px solid red;
+    padding: 10px;
+    background-color: ;
+
+}
+
+.container-title{
+    border: 1px solid red;
+    width: 75%;
+    height: 15%;
+    padding: ;
+    
+}
+
+.container-title-description{
+    border: 1px solid red;
+    width: 37%;
+    text-align: center;
+}
+
+.description-image1{
+    height: 200px;
+    width: 200px;
+
+} */
